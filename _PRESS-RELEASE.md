@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > TBD allows users to share their potential purchases on a social platform. 
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > People who want an opinion about an outfit before purchasing.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Social networking app for receiving feedback on potential outfits. Users will swipe left or right on random outfits. The photo's owner will receive feedback to inform their decision on the purchase.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > People shopping alone may want a second opinion before buying an outfit. 
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Platform that generates real time feedback from real live people on outfit photoes.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "App that lets you crowdsource opinions on an outfit you want to purchase."
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Sign up for an account, take a picture, wait for feedback!!!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "This app stopped me from purchasing a $100 bag that didn't look good."
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Go to our app and download link.
